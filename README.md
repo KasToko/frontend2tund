@@ -1,1 +1,2 @@
 # frontend2tund
+Ma jõudsin siia kasutades dc commandi, et liikuda desktopile ning parast selle tegemist kasutasin ma mkdir commandi, et luna sinna fail enda nimega, sils iikusin jällegist sinna faili ja siis lisasin sinna touch commandiga teksti faili 
